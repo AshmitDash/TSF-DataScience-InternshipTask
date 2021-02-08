@@ -1,1 +1,1 @@
-# TSF-DataScience-InternshipTask
+# TSF-DataScience-InternshipTasks
